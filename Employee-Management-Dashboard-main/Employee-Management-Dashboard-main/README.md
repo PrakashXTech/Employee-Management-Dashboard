@@ -25,5 +25,8 @@ This project is an **Employee Management Dashboard** that allows users to manage
 3. Navigate through the dashboard using the navbar and side menu to add, view, edit, or delete employee information.
 4. Employee data will be saved in local storage.
 
+### Web-Privew
+https://employeesystemdashboard.netlify.app/
+
 ### GitHub Repository:
 [Link to the Repository](https://github.com/PrakashXTech/Employee-Management-Dashboard.git)
